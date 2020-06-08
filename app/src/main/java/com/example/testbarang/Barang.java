@@ -28,4 +28,7 @@ public class Barang implements Serializable {
         kode = kd;
         nama = nm;
     }
+
+    public void setKode(String key) {
+    }
 }
